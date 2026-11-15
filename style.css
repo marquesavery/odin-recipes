@@ -1,0 +1,23 @@
+
+
+h1,
+h4 {
+    text-align: center;
+}
+
+.nav {
+    display: inline-block;
+}
+
+.nav a {
+    padding: 10px;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
